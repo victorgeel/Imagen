@@ -1,1 +1,4 @@
+gradio
+google-generativeai
+python-dotenv
 streamlit
